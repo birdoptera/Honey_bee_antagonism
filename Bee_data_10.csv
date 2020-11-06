@@ -1,0 +1,190 @@
+"Study","Study.year","Trial","Source","Day","Accommodation","Life.stage","Parasite","Parasite.kind","Pesticide","Pesticide.group","Treatment","Experimental.proportion","Control.proportion","Experimental.sample.size","Control.sample.size"
+"Alaux 2010",2010,"Al1","Fig 1 a",10,"Enclosures","Adults","Nosema ceranae","Nosema","Imidacloprid","Neonicotinoid","pesticide",0.105860113,0.058601134,270,270
+"Alaux 2010",2010,"Al1","Fig 1 a",10,"Enclosures","Adults","Nosema ceranae","Nosema","Imidacloprid","Neonicotinoid","parasite",0.283553875,0.058601134,270,270
+"Alaux 2010",2010,"Al1","Fig 1 a",10,"Enclosures","Adults","Nosema ceranae","Nosema","Imidacloprid","Neonicotinoid","combined",0.403591682,0.058601134,270,270
+"Alaux 2010",2010,"Al2","Fig 1 a",10,"Enclosures","Adults","Nosema ceranae","Nosema","Imidacloprid","Neonicotinoid","pesticide",0.166666667,0.05988024,270,270
+"Alaux 2010",2010,"Al2","Fig 1 a",10,"Enclosures","Adults","Nosema ceranae","Nosema","Imidacloprid","Neonicotinoid","parasite",0.284431138,0.05988024,270,270
+"Alaux 2010",2010,"Al2","Fig 1 a",10,"Enclosures","Adults","Nosema ceranae","Nosema","Imidacloprid","Neonicotinoid","combined",0.459081836,0.05988024,270,270
+"Alaux 2010",2010,"Al3","Fig 1 a",10,"Enclosures","Adults","Nosema ceranae","Nosema","Imidacloprid","Neonicotinoid","pesticide",0.182297552,0.061770245,270,270
+"Alaux 2010",2010,"Al3","Fig 1 a",10,"Enclosures","Adults","Nosema ceranae","Nosema","Imidacloprid","Neonicotinoid","parasite",0.286252354,0.061770245,270,270
+"Alaux 2010",2010,"Al3","Fig 1 a",10,"Enclosures","Adults","Nosema ceranae","Nosema","Imidacloprid","Neonicotinoid","combined",0.703578154,0.061770245,270,270
+"Aufauvre 2012",2012,"Au1","Fig 1 a",22,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","pesticide",0.319796954,0.246192893,150,150
+"Aufauvre 2012",2012,"Au1","Fig 1 a",22,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","parasite",0.390862944,0.246192893,150,150
+"Aufauvre 2012",2012,"Au1","Fig 1 a",22,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","combined",0.842639594,0.246192893,150,150
+"Aufauvre 2012",2012,"Au2","Fig 1 b",16,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","pesticide",0.299528302,0.240566038,150,150
+"Aufauvre 2012",2012,"Au2","Fig 1 b",16,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","parasite",0.389150943,0.240566038,150,150
+"Aufauvre 2012",2012,"Au2","Fig 1 b",16,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","combined",0.813679245,0.240566038,150,150
+"Aufauvre 2012",2012,"Au3","Fig 1 c",16,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","pesticide",0.351941748,0.283980583,150,150
+"Aufauvre 2012",2012,"Au3","Fig 1 c",16,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","parasite",0.274271845,0.283980583,150,150
+"Aufauvre 2012",2012,"Au3","Fig 1 c",16,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","combined",0.67961165,0.283980583,150,150
+"Aufauvre 2012",2012,"Au4","Fig 1 d",16,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","pesticide",0.311881188,0.247524752,150,150
+"Aufauvre 2012",2012,"Au4","Fig 1 d",16,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","parasite",0.227722772,0.247524752,150,150
+"Aufauvre 2012",2012,"Au4","Fig 1 d",16,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","combined",0.72029703,0.247524752,150,150
+"Aufauvre 2014",2014,"Auf1","SI_2_B",7,"Enclosures","Adults","Nosema ceranae","Nosema","Imidacloprid","Neonicotinoid","pesticide",0.262023217,0.185737977,140,140
+"Aufauvre 2014",2014,"Auf1","SI_2_B",7,"Enclosures","Adults","Nosema ceranae","Nosema","Imidacloprid","Neonicotinoid","parasite",0.509121061,0.185737977,140,140
+"Aufauvre 2014",2014,"Auf1","SI_2_B",7,"Enclosures","Adults","Nosema ceranae","Nosema","Imidacloprid","Neonicotinoid","combined",0.699834163,0.185737977,140,140
+"Aufauvre 2014",2014,"Auf2","Fig 1",25,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","pesticide",0.37929079,0.198526379,165,165
+"Aufauvre 2014",2014,"Auf2","Fig 1",25,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","parasite",0.459376289,0.198526379,165,165
+"Aufauvre 2014",2014,"Auf2","Fig 1",25,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","combined",0.651581485,0.198526379,165,165
+"Aufauvre 2014",2014,"Auf3","SI_2_B",12,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","pesticide",0.472941176,0.190588235,140,140
+"Aufauvre 2014",2014,"Auf3","SI_2_B",12,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","parasite",0.515294118,0.190588235,140,140
+"Aufauvre 2014",2014,"Auf3","SI_2_B",12,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","combined",0.691764706,0.190588235,140,140
+"Coulon 2019",2019,"Cou1","Fig 2 low",18,"Enclosures","Adults","CBPV","Virus","Thiamethoxam","Neonicotinoid","pesticide",0.034146341,0.103535354,120,120
+"Coulon 2019",2019,"Cou1","Fig 2 low",18,"Enclosures","Adults","CBPV","Virus","Thiamethoxam","Neonicotinoid","parasite",0.282926829,0.103535354,120,120
+"Coulon 2019",2019,"Cou1","Fig 2 low",18,"Enclosures","Adults","CBPV","Virus","Thiamethoxam","Neonicotinoid","combined",0.236585366,0.103535354,120,120
+"Coulon 2019",2019,"Cou2","Fig 2 high",18,"Enclosures","Adults","CBPV","Virus","Thiamethoxam","Neonicotinoid","pesticide",0.656097561,0.1,120,120
+"Coulon 2019",2019,"Cou2","Fig 2 high",18,"Enclosures","Adults","CBPV","Virus","Thiamethoxam","Neonicotinoid","parasite",0.282926829,0.1,120,120
+"Coulon 2019",2019,"Cou2","Fig 2 high",18,"Enclosures","Adults","CBPV","Virus","Thiamethoxam","Neonicotinoid","combined",0.809756098,0.1,120,120
+"Coulon 2020",2020,"Coul1","Fig 1 A 1",12,"Hive","Adults","DWV","Virus","Thiamethoxam","Neonicotinoid","pesticide",0.511392405,0.493670886,180,180
+"Coulon 2020",2020,"Coul1","Fig 1 A 1",12,"Hive","Adults","DWV","Virus","Thiamethoxam","Neonicotinoid","parasite",0.465822785,0.493670886,180,180
+"Coulon 2020",2020,"Coul1","Fig 1 A 1",12,"Hive","Adults","DWV","Virus","Thiamethoxam","Neonicotinoid","combined",0.559493671,0.493670886,180,180
+"Coulon 2020",2020,"Coul2","Fig 1 B 0.25",4,"Hive","Adults","DWV","Virus","Thiamethoxam","Neonicotinoid","pesticide",0.32972973,0.372972973,164,164
+"Coulon 2020",2020,"Coul2","Fig 1 B 0.25",4,"Hive","Adults","DWV","Virus","Thiamethoxam","Neonicotinoid","parasite",0.513513514,0.372972973,164,164
+"Coulon 2020",2020,"Coul2","Fig 1 B 0.25",4,"Hive","Adults","DWV","Virus","Thiamethoxam","Neonicotinoid","combined",0.52972973,0.372972973,164,164
+"Coulon 2018",2018,"Co1","Fig 4",10,"Enclosures","Adults","CBPV","Virus","Thiamethoxam","Neonicotinoid","pesticide",0.079365079,0.044444444,270,270
+"Coulon 2018",2018,"Co1","Fig 4",10,"Enclosures","Adults","CBPV","Virus","Thiamethoxam","Neonicotinoid","parasite",0.304761905,0.044444444,270,270
+"Coulon 2018",2018,"Co1","Fig 4",10,"Enclosures","Adults","CBPV","Virus","Thiamethoxam","Neonicotinoid","combined",0.422222222,0.044444444,270,270
+"Coulon 2018",2018,"Co2","Fig 4",10,"Enclosures","Adults","CBPV","Virus","Thiamethoxam","Neonicotinoid","pesticide",0.549206349,0.044444444,270,270
+"Coulon 2018",2018,"Co2","Fig 4",10,"Enclosures","Adults","CBPV","Virus","Thiamethoxam","Neonicotinoid","parasite",0.304761905,0.044444444,270,270
+"Coulon 2018",2018,"Co2","Fig 4",10,"Enclosures","Adults","CBPV","Virus","Thiamethoxam","Neonicotinoid","combined",0.955555556,0.044444444,270,270
+"Diao 2018",2018,"Di1","Fig 5 a",4,"Enclosures","Adults","CBPV","Virus","Imidacloprid","Neonicotinoid","pesticide",0.520215633,0.032345013,90,90
+"Diao 2018",2018,"Di1","Fig 5 a",4,"Enclosures","Adults","CBPV","Virus","Imidacloprid","Neonicotinoid","parasite",0.067385445,0.032345013,90,90
+"Diao 2018",2018,"Di1","Fig 5 a",4,"Enclosures","Adults","CBPV","Virus","Imidacloprid","Neonicotinoid","combined",0.525606469,0.032345013,90,90
+"Diao 2018",2018,"Di2","Fig 5 a",4,"Enclosures","Adults","CBPV","Virus","Imidacloprid","Neonicotinoid","pesticide",0.579514825,0.032345013,90,90
+"Diao 2018",2018,"Di2","Fig 5 a",4,"Enclosures","Adults","CBPV","Virus","Imidacloprid","Neonicotinoid","parasite",0.067385445,0.032345013,90,90
+"Diao 2018",2018,"Di2","Fig 5 a",4,"Enclosures","Adults","CBPV","Virus","Imidacloprid","Neonicotinoid","combined",0.598382749,0.032345013,90,90
+"Diao 2018",2018,"Di3","Fig 5 a",4,"Enclosures","Adults","CBPV","Virus","Imidacloprid","Neonicotinoid","pesticide",0.649595687,0.032345013,90,90
+"Diao 2018",2018,"Di3","Fig 5 a",4,"Enclosures","Adults","CBPV","Virus","Imidacloprid","Neonicotinoid","parasite",0.067385445,0.032345013,90,90
+"Diao 2018",2018,"Di3","Fig 5 a",4,"Enclosures","Adults","CBPV","Virus","Imidacloprid","Neonicotinoid","combined",0.781671159,0.032345013,90,90
+"Doublet 2015",2015,"Do1","Fig 6 a",25,"Enclosures","Adults","BQCV","Virus","Thiacloprid","Neonicotinoid","pesticide",0.450413223,0.512396694,120,120
+"Doublet 2015",2015,"Do1","Fig 6 a",25,"Enclosures","Adults","BQCV","Virus","Thiacloprid","Neonicotinoid","parasite",0.493801653,0.512396694,120,120
+"Doublet 2015",2015,"Do1","Fig 6 a",25,"Enclosures","Adults","BQCV","Virus","Thiacloprid","Neonicotinoid","combined",0.632231405,0.512396694,120,120
+"Doublet 2015",2015,"Do2","Fig 6 b",23,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","pesticide",0.353430353,0.426195426,120,120
+"Doublet 2015",2015,"Do2","Fig 6 b",23,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","parasite",0.546777547,0.426195426,120,120
+"Doublet 2015",2015,"Do2","Fig 6 b",23,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","combined",0.563409563,0.426195426,120,120
+"Doublet 2015",2015,"Do3","Fig 6 d",21,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","pesticide",0.396514161,0.309368192,120,120
+"Doublet 2015",2015,"Do3","Fig 6 d",21,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","parasite",0.535947712,0.309368192,120,120
+"Doublet 2015",2015,"Do3","Fig 6 d",21,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","combined",0.516339869,0.309368192,120,120
+"Doublet 2015",2015,"Do4","Fig 1",11,"Enclosures","Immatures","BQCV","Virus","Thiacloprid","Neonicotinoid","pesticide",0.166666667,0.102739726,48,48
+"Doublet 2015",2015,"Do4","Fig 1",11,"Enclosures","Immatures","BQCV","Virus","Thiacloprid","Neonicotinoid","parasite",0.063926941,0.102739726,48,48
+"Doublet 2015",2015,"Do4","Fig 1",11,"Enclosures","Immatures","BQCV","Virus","Thiacloprid","Neonicotinoid","combined",0.162100457,0.102739726,48,48
+"Doublet 2015",2015,"Do5","Fig 1",11,"Enclosures","Immatures","BQCV","Virus","Thiacloprid","Neonicotinoid","pesticide",0.166666667,0.102739726,48,48
+"Doublet 2015",2015,"Do5","Fig 1",11,"Enclosures","Immatures","BQCV","Virus","Thiacloprid","Neonicotinoid","parasite",0.246575342,0.102739726,48,48
+"Doublet 2015",2015,"Do5","Fig 1",11,"Enclosures","Immatures","BQCV","Virus","Thiacloprid","Neonicotinoid","combined",0.310502283,0.102739726,48,48
+"Doublet 2015",2015,"Do6","Fig 1",9,"Enclosures","Immatures","BQCV","Virus","Thiacloprid","Neonicotinoid","pesticide",0.146118721,0.084474886,48,48
+"Doublet 2015",2015,"Do6","Fig 1",9,"Enclosures","Immatures","BQCV","Virus","Thiacloprid","Neonicotinoid","parasite",0.771689498,0.084474886,48,48
+"Doublet 2015",2015,"Do6","Fig 1",9,"Enclosures","Immatures","BQCV","Virus","Thiacloprid","Neonicotinoid","combined",0.915525114,0.084474886,48,48
+"Faita 2020",2020,"Fa1","table 1, winter",5,"Enclosures","Adults","Nosema ceranae","Nosema","Glyphosate","Non-neonicotinoid","pesticide",0.097,0.153,144,144
+"Faita 2020",2020,"Fa1","table 1, winter",5,"Enclosures","Adults","Nosema ceranae","Nosema","Glyphosate","Non-neonicotinoid","parasite",0.25,0.153,144,144
+"Faita 2020",2020,"Fa1","table 1, winter",5,"Enclosures","Adults","Nosema ceranae","Nosema","Glyphosate","Non-neonicotinoid","combined",0.437,0.153,144,144
+"Faita 2020",2020,"Fa2","table2 , spring",5,"Enclosures","Adults","Nosema ceranae","Nosema","Glyphosate","Non-neonicotinoid","pesticide",0.076,0.083,144,144
+"Faita 2020",2020,"Fa2","table2 , spring",5,"Enclosures","Adults","Nosema ceranae","Nosema","Glyphosate","Non-neonicotinoid","parasite",0.139,0.083,144,144
+"Faita 2020",2020,"Fa2","table2 , spring",5,"Enclosures","Adults","Nosema ceranae","Nosema","Glyphosate","Non-neonicotinoid","combined",0.292,0.083,144,144
+"Fine 2017",2017,"Fi1","Fig 3",20,"Enclosures","Immatures","Exogenous viruses","Virus","Oss","Non-neonicotinoid","pesticide",0.288793103,0.245689655,216,216
+"Fine 2017",2017,"Fi1","Fig 3",20,"Enclosures","Immatures","Exogenous viruses","Virus","Oss","Non-neonicotinoid","parasite",0.439655172,0.245689655,216,216
+"Fine 2017",2017,"Fi1","Fig 3",20,"Enclosures","Immatures","Exogenous viruses","Virus","Oss","Non-neonicotinoid","combined",0.676724138,0.245689655,216,216
+"Gerrido 2016",2016,"Ge1","Fig 1",12,"Enclosures","Adults","Nosema ceranae","Nosema","Tau-fluvalinate","Non-neonicotinoid","pesticide",0.177083333,0.257894737,200,200
+"Gerrido 2016",2016,"Ge1","Fig 1",12,"Enclosures","Adults","Nosema ceranae","Nosema","Tau-fluvalinate","Non-neonicotinoid","parasite",0.247368421,0.257894737,200,200
+"Gerrido 2016",2016,"Ge1","Fig 1",12,"Enclosures","Adults","Nosema ceranae","Nosema","Tau-fluvalinate","Non-neonicotinoid","combined",0.884210526,0.257894737,200,200
+"Gerrido 2016",2016,"Ge2","Fig 1",12,"Enclosures","Adults","Nosema ceranae","Nosema","Coumaphos","Non-neonicotinoid","pesticide",0.192708333,0.257894737,200,200
+"Gerrido 2016",2016,"Ge2","Fig 1",12,"Enclosures","Adults","Nosema ceranae","Nosema","Coumaphos","Non-neonicotinoid","parasite",0.247368421,0.257894737,200,200
+"Gerrido 2016",2016,"Ge2","Fig 1",12,"Enclosures","Adults","Nosema ceranae","Nosema","Coumaphos","Non-neonicotinoid","combined",0.296875,0.257894737,200,200
+"Gregoric 2016",2016,"Gre1","Fig 2",13,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","pesticide",0.381889764,0.244094488,75,75
+"Gregoric 2016",2016,"Gre1","Fig 2",13,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","parasite",0.228346457,0.244094488,75,75
+"Gregoric 2016",2016,"Gre1","Fig 2",13,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","combined",0.251968504,0.244094488,75,75
+"Gregoric 2016",2016,"Gre2","Fig 2",13,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","pesticide",0.338582677,0.244094488,75,75
+"Gregoric 2016",2016,"Gre2","Fig 2",13,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","parasite",0.228346457,0.244094488,75,75
+"Gregoric 2016",2016,"Gre2","Fig 2",13,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","combined",0.255905512,0.244094488,75,75
+"Gregoric 2016",2016,"Gre3","Fig 3",3,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","pesticide",0.488017429,0.087145969,75,75
+"Gregoric 2016",2016,"Gre3","Fig 3",3,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","parasite",0.490196078,0.087145969,75,75
+"Gregoric 2016",2016,"Gre3","Fig 3",3,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","combined",0.374727669,0.087145969,75,75
+"Gregoric 2016",2016,"Gre4","Fig 3",3,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","pesticide",0.444444444,0.087145969,75,75
+"Gregoric 2016",2016,"Gre4","Fig 3",3,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","parasite",0.490196078,0.087145969,75,75
+"Gregoric 2016",2016,"Gre4","Fig 3",3,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","combined",0.446623094,0.087145969,75,75
+"Lopez 2017",2017,"Lo1","Fig 3",12,"Enclosures","Immatures","American foulbrood","Bacteria","Dimethoate","Non-neonicotinoid","pesticide",0.162561576,0.157635468,194,144
+"Lopez 2017",2017,"Lo1","Fig 3",12,"Enclosures","Immatures","American foulbrood","Bacteria","Dimethoate","Non-neonicotinoid","parasite",0.455665025,0.157635468,239,144
+"Lopez 2017",2017,"Lo1","Fig 3",12,"Enclosures","Immatures","American foulbrood","Bacteria","Dimethoate","Non-neonicotinoid","combined",0.610837438,0.157635468,120,144
+"Lopez 2017",2017,"Lo2","Fig 4",12,"Enclosures","Immatures","American foulbrood","Bacteria","Thiamethoxam","Neonicotinoid","pesticide",0.460431655,0.148681055,239,144
+"Lopez 2017",2017,"Lo2","Fig 4",12,"Enclosures","Immatures","American foulbrood","Bacteria","Thiamethoxam","Neonicotinoid","parasite",0.136690647,0.148681055,144,144
+"Lopez 2017",2017,"Lo2","Fig 4",12,"Enclosures","Immatures","American foulbrood","Bacteria","Thiamethoxam","Neonicotinoid","combined",0.623501199,0.148681055,144,144
+"Lopez 2017",2017,"Lo3","fig 5",12,"Enclosures","Immatures","American foulbrood","Bacteria","Fluvalinate","Neonicotinoid","pesticide",0.285714286,0.133171913,144,144
+"Lopez 2017",2017,"Lo3","fig 5",12,"Enclosures","Immatures","American foulbrood","Bacteria","Fluvalinate","Neonicotinoid","parasite",0.457627119,0.133171913,239,144
+"Lopez 2017",2017,"Lo3","fig 5",12,"Enclosures","Immatures","American foulbrood","Bacteria","Fluvalinate","Neonicotinoid","combined",0.556900726,0.133171913,144,144
+"Morfin 2020",2020,"Mo1","fig 1 low",19,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam","Neonicotinoid","pesticide",0.148148148,0.108737864,120,120
+"Morfin 2020",2020,"Mo1","fig 1 low",19,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam","Neonicotinoid","parasite",0.639917695,0.108737864,120,120
+"Morfin 2020",2020,"Mo1","fig 1 low",19,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam","Neonicotinoid","combined",0.847736626,0.108737864,120,120
+"Morfin 2020",2020,"Mo2","fig 1 med",19,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam","Neonicotinoid","pesticide",0.27184466,0.108737864,120,120
+"Morfin 2020",2020,"Mo2","fig 1 med",19,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam","Neonicotinoid","parasite",0.642718447,0.108737864,120,120
+"Morfin 2020",2020,"Mo2","fig 1 med",19,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam","Neonicotinoid","combined",0.798058252,0.108737864,120,120
+"Morfin 2020",2020,"Mo3","fig 1 high",19,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam","Neonicotinoid","pesticide",0.146090535,0.106995885,120,120
+"Morfin 2020",2020,"Mo3","fig 1 high",19,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam","Neonicotinoid","parasite",0.639917695,0.106995885,120,120
+"Morfin 2020",2020,"Mo3","fig 1 high",19,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam","Neonicotinoid","combined",0.765432099,0.106995885,120,120
+"Odemer 2018",2018,"Od2","Fig 5 na",14,"Hive","Adults","Nosema apis","Nosema","Thiamethoxam","Neonicotinoid","pesticide",0.429769392,0.398322851,350,350
+"Odemer 2018",2018,"Od2","Fig 5 na",14,"Hive","Adults","Nosema apis","Nosema","Thiamethoxam","Neonicotinoid","parasite",0.467505241,0.398322851,350,350
+"Odemer 2018",2018,"Od2","Fig 5 na",14,"Hive","Adults","Nosema apis","Nosema","Thiamethoxam","Neonicotinoid","combined",0.524109015,0.398322851,350,350
+"Odemer 2018",2018,"Od1","Fig 5 nc",14,"Hive","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","pesticide",0.429769392,0.398322851,350,350
+"Odemer 2018",2018,"Od1","Fig 5 nc",14,"Hive","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","parasite",0.536687631,0.398322851,350,350
+"Odemer 2018",2018,"Od1","Fig 5 nc",14,"Hive","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","combined",0.580712788,0.398322851,350,350
+"ONeal 2017",2017,"On3","Fig 4",3,"Enclosures","Adults","FHV","Virus","Amitraz","Non-neonicotinoid","pesticide",0.407657658,0.056306306,150,150
+"ONeal 2017",2017,"On3","Fig 4",3,"Enclosures","Adults","FHV","Virus","Amitraz","Non-neonicotinoid","parasite",0.290540541,0.056306306,150,150
+"ONeal 2017",2017,"On3","Fig 4",3,"Enclosures","Adults","FHV","Virus","Amitraz","Non-neonicotinoid","combined",0.997747748,0.056306306,150,150
+"ONeal 2017",2017,"On1","Fig 3 amtz",5,"Enclosures","Adults","FHV","Virus","Amitraz","Non-neonicotinoid","pesticide",0.098671727,0.115749526,150,150
+"ONeal 2017",2017,"On1","Fig 3 amtz",5,"Enclosures","Adults","FHV","Virus","Amitraz","Non-neonicotinoid","parasite",0.459203036,0.115749526,150,150
+"ONeal 2017",2017,"On1","Fig 3 amtz",5,"Enclosures","Adults","FHV","Virus","Amitraz","Non-neonicotinoid","combined",0.825426945,0.115749526,150,150
+"ONeal 2017",2017,"On2","Fig 3 dpmf",7,"Enclosures","Adults","FHV","Virus","Amitraz","Non-neonicotinoid","pesticide",0.121645796,0.162790698,150,150
+"ONeal 2017",2017,"On2","Fig 3 dpmf",7,"Enclosures","Adults","FHV","Virus","Amitraz","Non-neonicotinoid","parasite",0.867620751,0.162790698,150,150
+"ONeal 2017",2017,"On2","Fig 3 dpmf",7,"Enclosures","Adults","FHV","Virus","Amitraz","Non-neonicotinoid","combined",0.998211091,0.162790698,150,150
+"ONeal 2019",2019,"One1","Fig 1",8,"Enclosures","Adults","FHV","Virus","Chlorothalonil","Non-neonicotinoid","pesticide",0.088105727,0.068281938,150,150
+"ONeal 2019",2019,"One1","Fig 1",8,"Enclosures","Adults","FHV","Virus","Chlorothalonil","Non-neonicotinoid","parasite",0.735682819,0.068281938,150,150
+"ONeal 2019",2019,"One1","Fig 1",8,"Enclosures","Adults","FHV","Virus","Chlorothalonil","Non-neonicotinoid","combined",1,0.068281938,150,150
+"Kohler 2012",2012,"Ko1","Fig 3 B",7,"Enclosures","Adults","E. coli","Bacteria","Nicotine","Non-neonicotinoid","pesticide",0.501123596,0.351694915,600,600
+"Kohler 2012",2012,"Ko1","Fig 3 A",7,"Enclosures","Adults","E. coli","Bacteria","Nicotine","Non-neonicotinoid","parasite",0.406779661,0.351694915,600,600
+"Kohler 2012",2012,"Ko1","Fig 3 B",7,"Enclosures","Adults","E. coli","Bacteria","Nicotine","Non-neonicotinoid","combined",0.521348315,0.351694915,600,600
+"Kohler 2012",2012,"Ko2","Fig 3 C",7,"Enclosures","Adults","E. coli","Bacteria","Nicotine","Non-neonicotinoid","pesticide",0.371937639,0.351694915,600,600
+"Kohler 2012",2012,"Ko2","Fig 3 A",7,"Enclosures","Adults","E. coli","Bacteria","Nicotine","Non-neonicotinoid","parasite",0.406779661,0.351694915,600,600
+"Kohler 2012",2012,"Ko2","Fig 3 C",7,"Enclosures","Adults","E. coli","Bacteria","Nicotine","Non-neonicotinoid","combined",0.476614699,0.351694915,600,600
+"Paris 2017",2017,"Par1","Fig 2 fip",22,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","pesticide",0.408366534,0.125498008,135,135
+"Paris 2017",2017,"Par1","Fig 2 fip",22,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","parasite",0.585657371,0.125498008,135,135
+"Paris 2017",2017,"Par1","Fig 2 fip",22,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","combined",0.665338645,0.125498008,135,135
+"Paris 2020",2020,"Pari2","Fig 2 thia",20,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","pesticide",0.450834879,0.294990724,150,150
+"Paris 2020",2020,"Pari2","Fig 2 thia",20,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","parasite",0.493506494,0.294990724,150,150
+"Paris 2020",2020,"Pari2","Fig 2 thia",20,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","combined",0.521335807,0.294990724,150,150
+"Paris 2020",2020,"Pari1","Fig 2 fip",18,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","pesticide",0.417439703,0.257884972,150,150
+"Paris 2020",2020,"Pari1","Fig 2 fip",18,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","parasite",0.384044527,0.257884972,150,150
+"Paris 2020",2020,"Pari1","Fig 2 fip",18,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","combined",0.499072356,0.257884972,150,150
+"Paris 2020",2020,"Pari3","Fig 2 bos",22,"Enclosures","Adults","Nosema ceranae","Nosema","Boscalid","Non-neonicotinoid","pesticide",0.345338983,0.362288136,150,150
+"Paris 2020",2020,"Pari3","Fig 2 bos",22,"Enclosures","Adults","Nosema ceranae","Nosema","Boscalid","Non-neonicotinoid","parasite",0.56144068,0.362288136,150,150
+"Paris 2020",2020,"Pari3","Fig 2 bos",22,"Enclosures","Adults","Nosema ceranae","Nosema","Boscalid","Non-neonicotinoid","combined",0.828389831,0.362288136,150,150
+"Papach 2017",2017,"Pa1","Fig 3",19,"Enclosures","Immatures","American foulbrood","Bacteria","Thiamethoxam","Neonicotinoid","pesticide",0.145503212,0.178265525,96,96
+"Papach 2017",2017,"Pa1","Fig 3",19,"Enclosures","Immatures","American foulbrood","Bacteria","Thiamethoxam","Neonicotinoid","parasite",0.366167024,0.178265525,96,96
+"Papach 2017",2017,"Pa1","Fig 3",19,"Enclosures","Immatures","American foulbrood","Bacteria","Thiamethoxam","Neonicotinoid","combined",0.42012848,0.178265525,96,96
+"Retschnig 2014",2014,"Re1","Fig 1",14,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","pesticide",0.324742268,0.025773196,80,80
+"Retschnig 2014",2014,"Re1","Fig 1",14,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","parasite",0.410652921,0.025773196,80,80
+"Retschnig 2014",2014,"Re1","Fig 1",14,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","combined",0.350515464,0.025773196,80,80
+"Retschnig 2014",2014,"Re2","Fig 1",14,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","pesticide",0.325415677,0.026128266,80,80
+"Retschnig 2014",2014,"Re2","Fig 1",14,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","parasite",0.349168646,0.026128266,80,80
+"Retschnig 2014",2014,"Re2","Fig 1",14,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","combined",0.786223278,0.026128266,80,80
+"Retschnig 2015",2015,"Ret1","Fig 1",12,"Hive","Adults","Nosema ceranae","Nosema","Thiacloprid and tau-fluvalinate","Other","pesticide",0.464589235,0.35694051,594,594
+"Retschnig 2015",2015,"Ret1","Fig 1",12,"Hive","Adults","Nosema ceranae","Nosema","Thiacloprid and tau-fluvalinate","Other","parasite",0.422096317,0.35694051,594,594
+"Retschnig 2015",2015,"Ret1","Fig 1",12,"Hive","Adults","Nosema ceranae","Nosema","Thiacloprid and tau-fluvalinate","Other","combined",0.464589235,0.35694051,594,594
+"Retschnig 2015",2015,"Ret2","Fig 2",8,"Hive","Adults","Nosema ceranae","Nosema","Thiacloprid and tau-fluvalinate","Other","pesticide",0.458923513,0.470254958,594,594
+"Retschnig 2015",2015,"Ret2","Fig 2",8,"Hive","Adults","Nosema ceranae","Nosema","Thiacloprid and tau-fluvalinate","Other","parasite",0.458923513,0.470254958,594,594
+"Retschnig 2015",2015,"Ret2","Fig 2",8,"Hive","Adults","Nosema ceranae","Nosema","Thiacloprid and tau-fluvalinate","Other","combined",0.458923513,0.470254958,594,594
+"Straub 2019",2019,"St1","SI",17,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam and clothianidin","Neonicotinoid","pesticide",0.267399267,0.36101083,300,300
+"Straub 2019",2019,"St1","SI",17,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam and clothianidin","Neonicotinoid","parasite",0.708633094,0.36101083,300,300
+"Straub 2019",2019,"St1","SI",17,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam and clothianidin","Neonicotinoid","combined",0.714801444,0.36101083,300,300
+"Straub 2019",2019,"St2","SI",13,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam and clothianidin","Neonicotinoid","pesticide",0.355932203,0.283387622,300,300
+"Straub 2019",2019,"St2","SI",13,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam and clothianidin","Neonicotinoid","parasite",0.581967213,0.283387622,300,300
+"Straub 2019",2019,"St2","SI",13,"Enclosures","Adults","Varroa","Varroa","Thiamethoxam and clothianidin","Neonicotinoid","combined",0.765486726,0.283387622,300,300
+"Tesovnik 2019",2019,"Te1","Fig 2 T",14,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","pesticide",0.155487805,0.021341463,60,60
+"Tesovnik 2019",2019,"Te1","Fig 2 T",14,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","parasite",0.225609756,0.021341463,60,60
+"Tesovnik 2019",2019,"Te1","Fig 2 T",14,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","combined",0.475609756,0.021341463,60,60
+"Tesovnik 2019",2019,"Te2","Fig 2 TT",14,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","pesticide",0.518292683,0.021341463,60,60
+"Tesovnik 2019",2019,"Te2","Fig 2 TT",14,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","parasite",0.225609756,0.021341463,60,60
+"Tesovnik 2019",2019,"Te2","Fig 2 TT",14,"Enclosures","Adults","Nosema ceranae","Nosema","Thiamethoxam","Neonicotinoid","combined",0.615853659,0.021341463,60,60
+"Vidau 2011",2011,"Vi1","Fig 3 A",10,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","pesticide",0.104100946,0.100946372,150,150
+"Vidau 2011",2011,"Vi1","Fig 3 A",10,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","parasite",0.476340694,0.100946372,150,150
+"Vidau 2011",2011,"Vi1","Fig 3 A",10,"Enclosures","Adults","Nosema ceranae","Nosema","Fipronil","Non-neonicotinoid","combined",0.823343849,0.100946372,150,150
+"Vidau 2011",2011,"Vi2","Fig 3 A",10,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","pesticide",0.14511041,0.100946372,150,150
+"Vidau 2011",2011,"Vi2","Fig 3 A",10,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","parasite",0.476340694,0.100946372,150,150
+"Vidau 2011",2011,"Vi2","Fig 3 A",10,"Enclosures","Adults","Nosema ceranae","Nosema","Thiacloprid","Neonicotinoid","combined",0.706624606,0.100946372,150,150
